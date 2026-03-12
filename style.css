@@ -1,3 +1,9 @@
+/* မြန်မာစာအတွက် Google Font ချိတ်ခြင်း */
+@import url('https://fonts.googleapis.com/css2?family=Pyidaungsu&display=swap');
+
+* {
+    font-family: 'Pyidaungsu', sans-serif;
+}
 :root {
     --bg-primary: #f0f2f5;
     --text-main: #333;
